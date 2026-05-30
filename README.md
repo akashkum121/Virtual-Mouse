@@ -14,7 +14,7 @@
 
 ### 👁️ Blink Detection (Click Action)
 
-![Blink Click]([images/blink-click.png](https://github.com/akashkum121/Virtual-Mouse/blob/main/Mediapipe.png))
+![Blink Click](https://github.com/akashkum121/Virtual-Mouse/blob/main/Mediapipe.png)
 
 ### 🎯 Face Mesh Detection
 
