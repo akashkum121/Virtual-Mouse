@@ -10,7 +10,7 @@
 
 ### 🖥️ Eye Tracking Cursor Movement
 
-![Eye Tracking](https://github.com/akashkum121/Virtual-Mouse/blob/main/OpenCV](https://github.com/akashkum121/Virtual-Mouse/blob/main/OpenCV.png)
+![Eye Tracking](https://github.com/akashkum121/Virtual-Mouse/blob/main/OpenCV.png)
 
 ### 👁️ Blink Detection (Click Action)
 
