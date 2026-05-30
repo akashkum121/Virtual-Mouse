@@ -18,7 +18,7 @@
 
 ### 🎯 Face Mesh Detection
 
-![Face Mesh](images/face-mesh.png)
+![Face Mesh](https://github.com/akashkum121/Virtual-Mouse/blob/main/PyAutoGUI.png)
 
 ---
 
